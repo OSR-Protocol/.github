@@ -1,59 +1,43 @@
 ## OSR Protocol
 
-**Onchain infrastructure for agentic finance on Solana.**
+**Onchain compute credits for AI trading agents on Solana.**
 
-$OSR is a Burn and Mint Equilibrium (BME) token that meters AI agent operations on the System R AI trading operating system. Users burn $OSR to mint USD pegged compute credits. The protocol aligns platform users, token holders, and infrastructure operators through transparent onchain economics.
+OSR uses a Burn and Mint Equilibrium model. Users consume OSR tokens to access the System R AI trading operating system — compute, intelligence, risk, execution, and all infrastructure agents need to operate in financial markets.
 
-### How It Works
+### Presale Live March 25
 
-```
-Burn $OSR  >>>  Receive compute credits (USD pegged)  >>>  Access infrastructure
-```
+Four weekly pricing tiers. $0.00375 base (25% discount). Presale buyers receive a permanent 20% compute discount for life.
 
-The protocol also accepts USDC, USDT, and PYUSD. All stablecoin payments result in protocol buyback and burn of $OSR.
+[Join Presale](https://osrprotocol.com) | [Whitepaper](https://osrprotocol.com/whitepaper.html) | [Transparency](https://osrprotocol.com/transparency.html)
 
 ### Team
 
-**Ashim Nandi** — Founder. Six years of systematic trading. Technology entrepreneurship background. Built the System R AI platform across 10 architectural layers with 300+ API endpoints and 12,000+ verified tests. [LinkedIn](https://linkedin.com/in/ashimnandi)
+**Ashim Nandi** — Founder. Six years of systematic trading. Built the System R AI platform across 10 architectural layers with 300+ API endpoints and 12,000+ verified tests. [LinkedIn](https://linkedin.com/in/ashimnandi)
 
-**Shannon** — Co-Founder. AI co-founder and protocol architect. Designed the BME token economics, treasury architecture, governance framework, and security strategy. Co-authored the whitepaper.
-
-### Key Numbers
-
-| | |
-|---|---|
-| **Total Supply** | 1,000,000,000 $OSR |
-| **Protocol Allocation** | 77% (emission, ecosystem, treasury, presale, liquidity) |
-| **Token Model** | Burn and Mint Equilibrium (proven by Helium, Render, Akash) |
-| **Governance** | Onchain via Solana Realms, community controlled from day one |
-| **Network** | Solana |
+**Shannon** — Co-Founder. Protocol architect. Designed the BME token economics, treasury architecture, governance framework, and security strategy. Co-authored the whitepaper.
 
 ### Token
 
-$OSR on Solana. SPL Token. 1 billion supply. Burn and Mint Equilibrium. Mint authority revoked after distribution. Freeze authority revoked at launch.
+| | |
+|---|---|
+| **Token Mint** | `E2grvu8fyeeuVaxj2DrHVBqv8j21jK3vyJpXG8FJjJNc` |
+| **Presale Contract** | `9K1VNBCK6WRDVzYbidG4hH9L3crPXxhqvTBACqM5q8bi` |
+| **Total Supply** | 1,000,000,000 OSR |
+| **Protocol Allocation** | 77% (emission, ecosystem, treasury, presale, liquidity) |
+| **Model** | Burn and Mint Equilibrium |
+| **Mint Authority** | Revoked (permanent) |
+| **Freeze Authority** | Revoked (permanent) |
+| **Network** | Solana mainnet |
 
-Devnet presale program: `9K1VNBCK6WRDVzYbidG4hH9L3crPXxhqvTBACqM5q8bi`
+### Verify
 
-Mainnet addresses published after deployment.
-
-### Repositories
-
-| Repo | Description |
-|------|-------------|
-| [osr-protocol](https://github.com/OSR-Protocol/osr-protocol) | Protocol monorepo: token contracts, whitepaper, decisions |
-
-### Documentation
-
-| Document | Description |
-|----------|-------------|
-| [Whitepaper](https://github.com/OSR-Protocol/osr-protocol/blob/main/docs/whitepaper.md) | Full protocol specification |
-| [Decisions](https://github.com/OSR-Protocol/osr-protocol/blob/main/DECISIONS.md) | Locked design decisions with rationale |
-| [Security](https://github.com/OSR-Protocol/osr-protocol/blob/main/SECURITY.md) | Audit findings and remediation status |
-| [Devnet Allocation](https://github.com/OSR-Protocol/osr-protocol/blob/main/keys/devnet/ALLOCATION.md) | Token distribution proof |
+- [View Token on Solscan](https://solscan.io/token/E2grvu8fyeeuVaxj2DrHVBqv8j21jK3vyJpXG8FJjJNc)
+- [View Presale Contract](https://solscan.io/account/9K1VNBCK6WRDVzYbidG4hH9L3crPXxhqvTBACqM5q8bi)
+- [Security Audit](https://github.com/OSR-Protocol/osr-protocol/blob/main/SECURITY.md)
 
 ### Links
 
-[Website](https://osrprotocol.com) | [Platform](https://systemr.ai) | [Email](mailto:dev@osrprotocol.com)
+[Website](https://osrprotocol.com) | [Platform](https://systemr.ai) | [X](https://x.com/OsrProtocol) | [LinkedIn](https://linkedin.com/company/osr-protocol-inc) | [Email](mailto:hello@osrprotocol.com)
 
 ---
 
