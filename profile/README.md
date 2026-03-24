@@ -1,45 +1,63 @@
 ## OSR Protocol
 
-**Onchain compute credits for AI trading agents on Solana.**
+**Compute credits for AI trading agents on Solana**
 
-OSR uses a Burn and Mint Equilibrium model. Users consume OSR tokens to access the System R AI trading operating system -- compute, intelligence, risk, execution, and all infrastructure agents need to operate in financial markets. 380+ API endpoints backed by 13,241+ verified tests.
+### What is OSR
 
-### Presale: March 25 to April 21, 2026
+OSR is the utility token that powers the System R AI trading operating system. It uses a Burn and Mint Equilibrium model: every time an AI agent calls a platform tool (risk check, intelligence query, trade execution, ML prediction), OSR tokens are burned. New tokens are minted only through a governed emission schedule. As platform usage grows, burn rate outpaces emission, and total supply decreases over time.
 
-Four weekly pricing tiers. $0.00375 base (25% discount). Presale buyers receive a permanent 20% compute discount for life.
-
-Accepted payments: SOL, USDC, USDT, PYUSD.
-
-[Join Presale](https://osrprotocol.com) | [Whitepaper](https://osrprotocol.com/whitepaper.html) | [Transparency](https://osrprotocol.com/transparency.html)
-
-### Team
-
-**Ashim Nandi** -- Founder. Six years of systematic trading. Built the System R AI platform across 10 architectural layers with 380+ API endpoints and 13,241+ verified tests. [LinkedIn](https://linkedin.com/in/ashimnandi)
-
-**Shannon** -- Co-Founder. Protocol architect. Designed the BME token economics, treasury architecture, governance framework, and security strategy. Co-authored the whitepaper.
+OSR is not a governance token and not a meme token. It is pure compute utility. Agents deposit OSR (or SOL, USDC, USDT, PYUSD) to access 55 tools across 25 brokers and 9 asset classes. The token exists to align platform economics with real usage: if nobody uses the platform, nothing burns. If millions of agents use it daily, supply contracts significantly. Price follows utility.
 
 ### Token
 
-| | |
+| Property | Value |
 |---|---|
-| **Token Mint** | `E2grvu8fyeeuVaxj2DrHVBqv8j21jK3vyJpXG8FJjJNc` |
-| **Presale Contract** | `9K1VNBCK6WRDVzYbidG4hH9L3crPXxhqvTBACqM5q8bi` |
+| **Token Mint** | [`E2grvu8fyeeuVaxj2DrHVBqv8j21jK3vyJpXG8FJjJNc`](https://solscan.io/token/E2grvu8fyeeuVaxj2DrHVBqv8j21jK3vyJpXG8FJjJNc) |
 | **Total Supply** | 1,000,000,000 OSR |
-| **Protocol Allocation** | 77% (emission, ecosystem, treasury, presale, liquidity) |
 | **Model** | Burn and Mint Equilibrium |
+| **Network** | Solana mainnet |
 | **Mint Authority** | Revoked (permanent) |
 | **Freeze Authority** | Revoked (permanent) |
-| **Network** | Solana mainnet |
 
-### Verify
+### Presale
 
-- [View Token on Solscan](https://solscan.io/token/E2grvu8fyeeuVaxj2DrHVBqv8j21jK3vyJpXG8FJjJNc)
-- [View Presale Contract](https://solscan.io/account/9K1VNBCK6WRDVzYbidG4hH9L3crPXxhqvTBACqM5q8bi)
-- [Security Audit](https://github.com/OSR-Protocol/osr-protocol/blob/main/SECURITY.md)
+| Detail | Value |
+|---|---|
+| **Window** | March 25 to April 21, 2026 |
+| **Base Price** | $0.005 per token |
+| **Minimum** | $549 |
+| **Maximum** | $25,000 |
+| **Accepted** | SOL, USDC, USDT, PYUSD |
+| **Bonus** | 20% permanent discount on all platform operations |
+
+[Join Presale](https://osrprotocol.com) | [Whitepaper](https://osrprotocol.com/whitepaper.html) | [Transparency](https://osrprotocol.com/transparency.html)
+
+### The Platform OSR Powers
+
+[agents.systemr.ai](https://agents.systemr.ai) is the trading operating system for AI agents. 55 MCP tools. 25 brokers and exchanges. 9 asset classes (equities, options, futures, forex, crypto, commodities, energy, fixed income, prediction markets). Risk management, statistical analysis, intelligence, trade planning, execution, memory, ML pipelines, and compliance. 380+ API endpoints backed by 13,241+ verified tests.
+
+### Allocation
+
+| Allocation | Percentage |
+|---|---|
+| Emission | 30% |
+| Ecosystem | 20% |
+| Founders | 14% |
+| Treasury | 12% |
+| Presale | 10% |
+| Investors | 8% |
+| Liquidity | 5% |
+| Future Team | 1% |
+
+Protocol-controlled (emission + ecosystem + treasury + presale + liquidity): 77%. Team and investors vest over 36 months with 12-month cliff.
+
+### Team
+
+**Ashim Nandi** (Founder) and **Shannon** (Co-Founder).
 
 ### Links
 
-[Website](https://osrprotocol.com) | [Platform](https://systemr.ai) | [X](https://x.com/OsrProtocol) | [LinkedIn](https://linkedin.com/company/osr-protocol-inc) | [Email](mailto:hello@osrprotocol.com)
+[osrprotocol.com](https://osrprotocol.com) | [agents.systemr.ai](https://agents.systemr.ai) | [systemr.ai](https://www.systemr.ai) | [X: @OsrProtocol](https://x.com/OsrProtocol)
 
 ---
 
