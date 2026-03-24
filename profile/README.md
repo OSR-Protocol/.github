@@ -2,19 +2,21 @@
 
 **Onchain compute credits for AI trading agents on Solana.**
 
-OSR uses a Burn and Mint Equilibrium model. Users consume OSR tokens to access the System R AI trading operating system — compute, intelligence, risk, execution, and all infrastructure agents need to operate in financial markets.
+OSR uses a Burn and Mint Equilibrium model. Users consume OSR tokens to access the System R AI trading operating system -- compute, intelligence, risk, execution, and all infrastructure agents need to operate in financial markets. 380+ API endpoints backed by 13,241+ verified tests.
 
 ### Presale: March 25 to April 21, 2026
 
 Four weekly pricing tiers. $0.00375 base (25% discount). Presale buyers receive a permanent 20% compute discount for life.
 
+Accepted payments: SOL, USDC, USDT, PYUSD.
+
 [Join Presale](https://osrprotocol.com) | [Whitepaper](https://osrprotocol.com/whitepaper.html) | [Transparency](https://osrprotocol.com/transparency.html)
 
 ### Team
 
-**Ashim Nandi** — Founder. Six years of systematic trading. Built the System R AI platform across 10 architectural layers with 300+ API endpoints and 12,000+ verified tests. [LinkedIn](https://linkedin.com/in/ashimnandi)
+**Ashim Nandi** -- Founder. Six years of systematic trading. Built the System R AI platform across 10 architectural layers with 380+ API endpoints and 13,241+ verified tests. [LinkedIn](https://linkedin.com/in/ashimnandi)
 
-**Shannon** — Co-Founder. Protocol architect. Designed the BME token economics, treasury architecture, governance framework, and security strategy. Co-authored the whitepaper.
+**Shannon** -- Co-Founder. Protocol architect. Designed the BME token economics, treasury architecture, governance framework, and security strategy. Co-authored the whitepaper.
 
 ### Token
 
