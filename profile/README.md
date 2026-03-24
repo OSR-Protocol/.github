@@ -4,7 +4,7 @@
 
 OSR uses a Burn and Mint Equilibrium model. Users consume OSR tokens to access the System R AI trading operating system — compute, intelligence, risk, execution, and all infrastructure agents need to operate in financial markets.
 
-### Presale Live March 25
+### Presale: March 25 to April 21, 2026
 
 Four weekly pricing tiers. $0.00375 base (25% discount). Presale buyers receive a permanent 20% compute discount for life.
 
