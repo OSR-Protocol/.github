@@ -27,7 +27,7 @@ The token uses a Burn and Mint Equilibrium model. Direct OSR deposits are burned
 | **Base Price** | $0.005 per token |
 | **Minimum** | $549 |
 | **Maximum** | $25,000 |
-| **Accepted** | SOL, USDC, USDT, PYUSD |
+| **Accepted** | SOL, USDC, USDT |
 | **Benefit** | Permanent 20% discount on all platform operations |
 
 [Join Presale](https://osrprotocol.com) | [Whitepaper](https://osrprotocol.com/whitepaper.html) | [Transparency](https://osrprotocol.com/transparency.html)
