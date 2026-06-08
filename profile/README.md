@@ -18,8 +18,8 @@ System R AI is the first supported product surface for OSR compute-credit utilit
 ## Public Links
 
 - Website: https://osrprotocol.com/
-- Whitepaper: https://osrprotocol.com/whitepaper.html
-- Transparency: https://osrprotocol.com/transparency.html
+- Whitepaper: https://osrprotocol.com/whitepaper
+- Transparency: https://osrprotocol.com/transparency
 - System R AI: https://systemr.ai/
 
 ## Boundaries
