@@ -1,30 +1,27 @@
 # OSR Protocol
 
-OSR Protocol is an onchain compute-credit and settlement subproject connected to System R AI.
+OSR Protocol is a Solana-based utility protocol for compute-credit access across supported agentic finance infrastructure.
 
-System R AI is a decision intelligence system for trading and investing. OSR is not the primary System R product, and System R should not be described here using retired product-category language.
+The protocol focuses on wallet-based participation, onchain token records, compute-credit utility, and public verification of OSR token facts.
+
+## Protocol Focus
+
+- Compute-credit access where OSR utility is enabled.
+- Solana-based token participation and settlement records.
+- Public token facts, protocol disclosures, and verification paths.
+- Supported utility surfaces across agentic finance infrastructure.
 
 ## Relationship to System R AI
 
-System R AI has two main product layers:
+System R AI is the first supported product surface for OSR compute-credit utility. System R AI is a decision intelligence system for trading and investing. OSR remains the protocol and token layer.
 
-- Agentic Trading Workspace: for active traders to research, plan, journal, and review decisions.
-- API Toolkit: finance tools for agents, Python workflows, notebooks, and backend services.
+## Public Links
 
-OSR Protocol may support compute-credit and settlement research around these workflows.
-
-## Trust boundary
-
-System R AI is software for decision support.
-It is not financial advice.
-It is not a broker.
-It is not a signal service.
-It does not guarantee profits.
-AI outputs can be wrong.
-Users remain responsible for their own trading and investing decisions.
-
-## Links
-
+- Website: https://osrprotocol.com/
+- Whitepaper: https://osrprotocol.com/whitepaper.html
+- Transparency: https://osrprotocol.com/transparency.html
 - System R AI: https://systemr.ai/
-- Docs: https://docs.systemr.ai/
-- Agents: https://agents.systemr.ai/
+
+## Boundaries
+
+OSR Protocol is not a broker, investment adviser, signal service, or promise of returns. It does not execute trades for users. Users remain responsible for their own trading and investing decisions.
